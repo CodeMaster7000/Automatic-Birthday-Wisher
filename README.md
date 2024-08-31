@@ -2,4 +2,4 @@
 
 ## About
 
-A Python script to automatically send an email to your friends on their birthday, sending them your wishes.
+A Python script to automatically send an Email/SMS to your friends on their birthday, sending them your wishes.
