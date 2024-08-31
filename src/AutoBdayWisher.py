@@ -43,10 +43,10 @@ def sendsms(to, msg, name, sub):
                                 data = payload,
                                 headers = headers)
     print(response_obj.text)
-    print("SMS sent to " + str(to) + " with subject :" +
+    print("SMS sent to " + str(to) + " with subject:" +
           str(sub) + " and message :" + str(msg))
      
-    toast.show_toast("SMS Sent!" ,
+    toast.show_toast("SMS successfully sent." ,
                      f"{name} was sent message", 
                      threaded = True, 
                      icon_path = None,
