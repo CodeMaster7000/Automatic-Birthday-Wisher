@@ -7,4 +7,4 @@ A Python script to automatically send an Email/SMS to your friends on their birt
 ## Prerequisites
 
 - Python 3
-- `fast2sms` API key (can be obtained by registering [here](https://www.fast2sms.com) and generating your API key)
+- `fast2sms API Key` (can be obtained by registering [here](https://www.fast2sms.com) and generating your API key)
